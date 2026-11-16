@@ -7,7 +7,7 @@ Next.js (App Router) + NextAuth v5 (Credentials) + MUI + react-hook-form fronten
 
 ```bash
 npm install
-# .env.local already holds ECOM_API_URL + AUTH_SECRET; generate a real secret for anything real:
+
 npx auth secret
 npm run dev   # http://localhost:3000
 ```
