@@ -42,7 +42,6 @@ The API starts on **http://localhost:5041** (Swagger UI at `/swagger`).
 
   | Role | Email | Password |
   |---|---|---|
-  | Admin | `admin@fisco.local` | `Admin1234` |
   | Customer | `customer@fisco.local` | `Password123` |
 
 ### Stripe config (only needed for subscription features)
