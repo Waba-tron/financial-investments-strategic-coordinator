@@ -1,0 +1,6 @@
+using FinancialInvestmentStrategicCoordinator.Application.Subscription.Dtos;
+using MediatR;
+
+namespace FinancialInvestmentStrategicCoordinator.Application.Subscription.Queries.GetSubscriptionStatus;
+
+public record GetSubscriptionStatusQuery : IRequest<SubscriptionResponse>;

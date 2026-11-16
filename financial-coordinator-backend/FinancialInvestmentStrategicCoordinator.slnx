@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FinancialInvestmentStrategicCoordinator.Domain/FinancialInvestmentStrategicCoordinator.Domain.csproj" />
+  <Project Path="FinancialInvestmentStrategicCoordinator.Application/FinancialInvestmentStrategicCoordinator.Application.csproj" />
+  <Project Path="FinancialInvestmentStrategicCoordinator.Infrastructure/FinancialInvestmentStrategicCoordinator.Infrastructure.csproj" />
+  <Project Path="FinancialInvestmentStrategicCoordinator.API/FinancialInvestmentStrategicCoordinator.API.csproj" />
+</Solution>

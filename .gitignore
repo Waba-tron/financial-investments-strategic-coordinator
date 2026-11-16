@@ -1,0 +1,40 @@
+# ---- .NET ----
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# Local SQLite dev database (recreated on startup)
+*.db
+*.db-shm
+*.db-wal
+
+# .NET user secrets are stored outside the repo, but ignore any stray secrets file
+secrets.json
+
+# ---- Node / Next.js ----
+node_modules/
+.next/
+out/
+build/
+dist/
+*.tsbuildinfo
+next-env.d.ts
+
+# Environment files (contain secrets like AUTH_SECRET)
+.env
+.env.local
+.env.*.local
+
+# ---- Logs ----
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ---- OS / editor ----
+.DS_Store
+Thumbs.db
+.idea/
+*.swp
